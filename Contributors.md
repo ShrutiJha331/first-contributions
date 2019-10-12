@@ -5,6 +5,7 @@
 - [Bubu 🚀](https://github.com/BubuDavid)
 - [Gianfranco Pagliaroto](https://github.com/gianfrancopagliaroto)
 - [Somil Gupta](https://github.com/somilg050)
+- [Shruti Jha](https://github.com/ShrutiJha331)
 - [Brandon Rosser](https://github.com/krunkbot3000)
 - [Desmond Chi](https://github.com/desmochi)
 - [Ashish Dukare](https://github.com/ashishdukare)
